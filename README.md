@@ -1,2 +1,2 @@
 # page-clones
-Meus primeiros clones de homepages usando html e css.
+Homepage do Google. Uma forma de aplicar meus conhecimentos e entender na prática como programar layouts modernos.
